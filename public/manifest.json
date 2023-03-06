@@ -1,0 +1,35 @@
+
+{
+  "name": "To Do Task List",
+  "short_name": "ToDO App",
+  "theme_color": "#7720cf",
+  "background_color": "#8ca6ba",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+   "icons":[
+    {
+      "src": "maskable_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+
+    },
+
+    {
+      "src": "logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+   ]
+}
